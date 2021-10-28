@@ -1,0 +1,1 @@
+Keterangan gambar
