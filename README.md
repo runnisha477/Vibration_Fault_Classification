@@ -2,6 +2,11 @@
 Dataset menggunakan Machinery Fault Database (MAFAULDA)
 http://www02.smt.ufrj.br/~offshore/mfs/page_01.html
 
+# DNN (6 label)
++ update 04/12/2021 (akurasi bertambah ketika data sudah dibalancing)
+- Accuracy on Train Data: 0.9627147316932678
+- Accuracy on Test Data: 0.9380234479904175
+
 # KNN (6 label)
 + update 28/10/2021
 - Accuracy on Train Data: 0.9634300126103404
