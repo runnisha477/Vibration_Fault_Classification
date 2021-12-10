@@ -2,6 +2,10 @@
 Dataset menggunakan Machinery Fault Database (MAFAULDA)
 http://www02.smt.ufrj.br/~offshore/mfs/page_01.html
 
+# Dataset
++ update 11/12/2021
+- Dataset getarannya saja (sumbu aksial, vertikal, dan horizontal) dari kondisi mesin normal, unbalance, bearing fault, dan misalignment
+
 # DNN (6 label)
 + update 04/12/2021 (akurasi bertambah ketika data sudah dibalancing)
 - Accuracy on Train Data: 0.9627147316932678
