@@ -6,15 +6,17 @@ http://www02.smt.ufrj.br/~offshore/mfs/page_01.html
 + update 11/12/2021
 - Dataset getarannya saja (sumbu aksial, vertikal, dan horizontal) dari kondisi mesin normal, unbalance, bearing fault, dan misalignment
 
+# KNN (6 label)
++ update 11/12/2021
+- tutorial KNN prediksi https://www.kaggle.com/prashant111/knn-classifier-tutorial
++ update 04/12/2021 (akurasi bertambah ketika data sudah dibalancing)
+- Accuracy on Train Data: 0.9634300126103404
+- Accuracy on Test Data: 0.8067226890756303
+
 # DNN (6 label)
 + update 04/12/2021 (akurasi bertambah ketika data sudah dibalancing)
 - Accuracy on Train Data: 0.9627147316932678
 - Accuracy on Test Data: 0.9380234479904175
-
-# KNN (6 label)
-+ update 04/12/2021 (akurasi bertambah ketika data sudah dibalancing)
-- Accuracy on Train Data: 0.9634300126103404
-- Accuracy on Test Data: 0.8067226890756303
 
 # SVM (6 label)
 + update 28/10/2021
