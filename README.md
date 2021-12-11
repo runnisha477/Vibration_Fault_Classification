@@ -32,3 +32,6 @@ http://www02.smt.ufrj.br/~offshore/mfs/page_01.html
 - Training Accuracy:  1.0
 - Test Accuracy:  0.9858757257461548
 - kendala : belum bisa plot confusion matrix
+
+# Note
+- digiducer
