@@ -7,3 +7,4 @@ z = aksial
 4 = unbalance 27g.cm
 5 = bearing fault
 6 = unbalance 6g.cm
+7 = misalignment
