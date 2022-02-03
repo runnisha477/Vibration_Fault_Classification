@@ -1,10 +1,22 @@
 # Tugas-Akhir
-Dataset menggunakan Machinery Fault Database (MAFAULDA)
+Dataset menggunakan 
+- Machinery Fault Database (MAFAULDA)
 http://www02.smt.ufrj.br/~offshore/mfs/page_01.html
+- CWRU
 
 # Dataset
 + update 11/12/2021
 - Dataset getarannya saja (sumbu aksial, vertikal, dan horizontal) dari kondisi mesin normal, unbalance, bearing fault, dan misalignment
+
+# Data Primer
++ update 03/02/2022
+# DNN
+Training Accuracy:  0.9526012539863586
+Testing Accuracy:  0.9568256735801697
+
+# CNN 1D
+Training Accuracy:  0.9651449918746948
+Testing Accuracy:  0.9601151347160339
 
 # KNN (6 label)
 + update 11/12/2021
