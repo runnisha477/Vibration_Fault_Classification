@@ -1,0 +1,2 @@
+- (Gambar 1&2) Hasil (sementara) confusion matrix SVM dengan 4 label
+- (Gambar 3&4) Hasil (sementara) confusion matrix KNN dengan 4 label
