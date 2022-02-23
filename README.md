@@ -6,26 +6,20 @@
 
 # Downsampled
 - SVM (24/02/2022)
-- Training Accuracy:  0.9526012539863586
-- Testing Accuracy:  0.9568256735801697
+- Accuracy : 81.29%
 
 - KNN (24/02/2022)
-- Training Accuracy:  0.9651449918746948
-- Testing Accuracy:  0.9601151347160339
+- Accuracy : 97.78%
 
 - Naive-Bayes (24/02/2022)
-- Accuracy on Train Data: 0.9634300126103404
-- Accuracy on Test Data: 0.8067226890756303
+- Accuracy : 63.57%
 
 # Non-Downsampled
 - SVM (24/02/2022)
-- Training Accuracy:  
-- Testing Accuracy:  
+- Accuracy : 
 
 - KNN (24/02/2022)
-- Training Accuracy:  
-- Testing Accuracy:  
+- Accuracy : 
 
 - Naive-Bayes (24/02/2022)
-- Accuracy on Train Data: 
-- Accuracy on Test Data: 
+- Accuracy : 
