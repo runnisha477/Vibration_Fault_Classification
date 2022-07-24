@@ -10,42 +10,25 @@
 
 # Preprocessing
 -- Update 17/03/2021
-- Normalization (normalize data between 1 and -1)
+- Normalization (normalize data between 0 and 1)
 - Frequency domain using FFT (Fast Fourier Transform) for spectral features
--- Further development
-- Time domain using EMD (Empirical Mode Decomposition) for temporal features
 
 # Feature Extraction
--- Update 17/03/2021 (in progress)
-- Spectral Features : 
-- Mean Frequency FM
-- Frequency Standard Deviation (FSD)
-- Skewness of Frequency (FSK)
-- Kurtosis of Frequency (FKR)
-- Band Power (BPWR)
-- Median Frequency (FMED)
-- Spectral Centroid (SC)
-- Spectral Flux (SF)
-- Spectral Roll Off (SRO)
-- Spectral Flatness (SFL)
-- Spectral Crest (SCR)
-- Spectral Decrease (SDEC)
-- Spectral Slope (SSL)
-- Spectral Spread (SS)
-
--- Further development
-- Temporal Features :
 - Mean (M)
 - Standard Deviation (SD)
 - Skewness (SK)
 - Kurtosis (KR)
 - Peak to Peak (PP)
 - Root Mean Square (RMS)
-- Energy (E)
+- Shape Factor (SF)
+- Impulse Factor(IF)
+- Crest Factor (CF)
 
 # Build Classifier
 - KNN
 - SVM
-- Naive Bayes
+- GNB
 
-# Predict a New Vibration Data 
+# Predict a New Vibration Data using Inference Program
+- Vibration Data of 2 Pumps Operating Simultaneously
+- Vibration Data with Addition Gaussian White Noise
