@@ -1,4 +1,4 @@
-# Tugas-Akhir
+# Tugas-Akhir Machine Learning
 
 # Dataset
 - This Dataset containing 4 columns including time, x-axis, y-axis, and z-axis of vibration data.  with each normal, unbalance, bearing fault, and misalignment conditions.
