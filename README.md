@@ -1,5 +1,8 @@
 # Tugas-Akhir Machine Learning
 
+# Abstract
+In the industrial world, condition monitoring is needed because it can increase the reliability of a machine component. If damage occurs and is not repaired immediately, it will cause more severe damage. These types of damage produce a vibration signal with a certain pattern. The purpose of this research is to detect machine breakdowns automatically using machine learning. The dataset in the form of a pump vibration signal in the time domain is converted into the frequency domain using the Fast Fourier Transform (FFT) technique. The results of the FFT are then extracted features. There are 9 statistical extraction features used which are then selected the best features using the feature importance score technique. The extraction results are entered into a machine learning algorithm. There are 3 machine learning algorithms, namely k-nearest neighbor (kNN), support vector machine (SVM), and gaussian naive bayes (GNB). Through the process of training and validation to produce an unweighted accuracy (UA) value and can predict the type of damage to the pump. The UA values with the kNN, SVM, and GNB algorithms are 95.80%, 95,29%, and 80.69%. Algorithm testing is done with an inference program that aims to evaluate the designed machine learning algorithm.
+
 # Dataset
 - This Dataset containing 4 columns including time, x-axis, y-axis, and z-axis of vibration data.  with each normal, unbalance, bearing fault, and misalignment conditions.
 - You can access our Dataset in here https://drive.google.com/drive/u/0/folders/1B-R2uadcDpQc3dEvQ0FlbkssE_2cQAml
